@@ -19,4 +19,4 @@ The website includes:
 3. The portfolio website will be displayed.  
 
 ---
-This project helped me practice the basics of *front-end development* and organize my work neatly on GitHub.
+This project helped me practice the basics of front-end development and organize my work neatly on GitHub.
