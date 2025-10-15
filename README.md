@@ -121,5 +121,5 @@ Each project helped reinforce my understanding of front-end development principl
 
 ---
 
-👨‍💻 *Developed by:* [Bhavitha.P]  
+👨‍💻 *Developed by:* Bhavitha.P 
 📅 *Internship Duration:* 3 Weeks
