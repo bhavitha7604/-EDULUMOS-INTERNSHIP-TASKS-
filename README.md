@@ -40,15 +40,14 @@ The portfolio showcases my profile, projects, and contact details in a clean, re
 ### ✅ Week 02 – To-Do List Web Application
 
 #### 📄 Project Description
-A fully responsive *To-Do List Web Application* built using *HTML, **CSS, and **JavaScript*.  
+A fully responsive *To-Do List Web Application* built using *HTML, *CSS, and *JavaScript*.  
 The app enables users to manage their daily tasks — add, mark complete, and delete — with persistent storage using the browser’s local storage.
 
 #### 💡 Features
 - ➕ Add new tasks  
 - ✅ Mark tasks as complete  
 - ❌ Delete tasks  
-- 💾 Save tasks automatically using local storage  
-- 📱 Responsive for all screen sizes  
+- 💾 Save tasks automatically using local storage   
 
 #### 🗂 Files
 - index.html → App layout  
@@ -70,7 +69,7 @@ The app enables users to manage their daily tasks — add, mark complete, and de
 ### 🧠 Week 03 – Quiz Application
 
 #### 📄 Project Overview
-An interactive *Quiz Application* developed with *HTML, **CSS, and **JavaScript*.  
+An interactive *Quiz Application* developed with *HTML, *CSS, and *JavaScript*.  
 Users can attempt multiple-choice questions, navigate between them, and view their final score with correct and incorrect answers highlighted.
 
 #### ✨ Features
@@ -78,7 +77,6 @@ Users can attempt multiple-choice questions, navigate between them, and view the
 - 🔁 Next and Previous navigation  
 - ✅ Final score and feedback display  
 - ⏱ Timer functionality for each question or the entire quiz  
-- 📱 Fully responsive and user-friendly interface  
 
 #### 🗂 Project Structure
 
@@ -124,4 +122,4 @@ Each project helped reinforce my understanding of front-end development principl
 ---
 
 👨‍💻 *Developed by:* [Bhavitha.P]  
-📅 *Internship Duration: 3 Weeks
+📅 *Internship Duration:* 3 Weeks
