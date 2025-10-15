@@ -3,7 +3,7 @@
 ## 📘 Overview
 
 This repository contains all the projects completed during my *Edulumos Web Development Internship*.  
-Throughout the internship, I built multiple front-end web applications using *HTML, **CSS, and **JavaScript*, strengthening my understanding of responsive design, DOM manipulation, and client-side logic.
+Throughout the internship, I built multiple front-end web applications using *HTML*, *CSS*, and *JavaScript*, strengthening my understanding of responsive design, DOM manipulation, and client-side logic.
 
 Each week focused on a new project to enhance specific web development skills — from creating personal portfolios to building interactive and dynamic web applications.
 
@@ -40,7 +40,7 @@ The portfolio showcases my profile, projects, and contact details in a clean, re
 ### ✅ Week 02 – To-Do List Web Application
 
 #### 📄 Project Description
-A fully responsive *To-Do List Web Application* built using *HTML, *CSS, and *JavaScript*.  
+A fully responsive *To-Do List Web Application* built using *HTML*, *CSS*, and *JavaScript*.  
 The app enables users to manage their daily tasks — add, mark complete, and delete — with persistent storage using the browser’s local storage.
 
 #### 💡 Features
@@ -69,7 +69,7 @@ The app enables users to manage their daily tasks — add, mark complete, and de
 ### 🧠 Week 03 – Quiz Application
 
 #### 📄 Project Overview
-An interactive *Quiz Application* developed with *HTML, *CSS, and *JavaScript*.  
+An interactive *Quiz Application* developed with *HTML*, *CSS*, and *JavaScript*.  
 Users can attempt multiple-choice questions, navigate between them, and view their final score with correct and incorrect answers highlighted.
 
 #### ✨ Features
