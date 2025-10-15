@@ -1,6 +1,6 @@
 # Week 01 - Personal Portfolio Website
 
-This is my *Week 01 task* for the Edulumos Internship.
+This is my *Week 01 Task* for the Edulumos Internship.
 
 ## 📌 Project Description
 A simple personal portfolio website built with *HTML* and *CSS*.  
